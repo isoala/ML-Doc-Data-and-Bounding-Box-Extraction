@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Extracting Text & Bounding Boxes from Scanned PDFs 📄
 
 This project demonstrates how to perform Optical Character Recognition (OCR) on a scanned PDF document to extract text and their corresponding bounding boxes. This is particularly useful for working with image-based PDFs where traditional text extraction methods fail. The process involves converting the PDF to an image, applying various image preprocessing techniques, and then using Tesseract OCR to recognize text and its location.
@@ -75,3 +76,6 @@ How to Use
     Run the script. The output will include the extracted text, a visual representation with bounding boxes, and the structured JSON data.
 
 This project is a powerful tool for anyone needing to convert unstructured, scanned documents into usable, digital data.
+=======
+# ML-Doc-Data-and-Bounding-Box-Extraction
+>>>>>>> origin/main
