@@ -1,0 +1,53 @@
+{
+    "version": "1.0",
+    "description": "Bounding boxes for document sections",
+    "bounding_boxes": [
+        {
+            "EDUCATION": {
+                "text": "EDUCATION",
+                "bounding_box": [
+                    144,
+                    146,
+                    126,
+                    14
+                ]
+            },
+            "UNIVERSITY": {
+                "text": "UNIVERSITY",
+                "bounding_box": [
+                    312,
+                    181,
+                    137,
+                    39
+                ]
+            },
+            "COLLEGE": {
+                "text": "COLLEGE",
+                "bounding_box": [
+                    465,
+                    181,
+                    75,
+                    39
+                ]
+            },
+            "CAREER": {
+                "text": "CAREER",
+                "bounding_box": [
+                    144,
+                    320,
+                    84,
+                    14
+                ]
+            },
+            "SKILLS": {
+                "text": "SKILLS",
+                "bounding_box": [
+                    144,
+                    1324,
+                    68,
+                    14
+                ]
+            }
+        }
+    ]
+}
